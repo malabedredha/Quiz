@@ -1,0 +1,82 @@
+body{
+   
+    background-color: lightgrey;
+
+}
+
+header {
+   
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+#Begin-Quiz{
+
+    text-align: center;
+    background-color: lightgrey;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 10%;
+}
+
+
+#Quiz {
+   
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+
+#End-Quiz{
+   
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+button{
+    
+    font-size: 20px;
+    padding: 10px;
+    border: 10px;
+    background-color: darkgrey;
+    color: white;
+
+}
+
+#fname{
+    
+    font-size: 30px;
+
+}
+
+.hide{
+
+    display: none;
+
+}
+
+#timer1{
+    
+    text-align: right;
+
+}
